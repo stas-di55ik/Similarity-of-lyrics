@@ -61,8 +61,8 @@ def base_words_forms(query):
 
 
 #Текст для аналізу схожості
-X="*Any text 1*"
-Y="*Any text 2"
+X="Any text 1"
+Y="Any text 2"
 
 #Початкова обробка тексту (функцію див. вище)
 X = start_maching(X)
